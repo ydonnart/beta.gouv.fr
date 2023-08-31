@@ -1,5 +1,5 @@
 ---
-title: Vif - UDAP des Deux-Sèvres
+title: RDVif - UDAP des Deux-Sèvres
 mission: Faciliter l'envoi de compte-rendus suite aux visites de terrain des agents d'UDAP
 incubator: culture
 sponsors: 
